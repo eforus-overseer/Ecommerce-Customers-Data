@@ -9,5 +9,10 @@ Predicting Expenses on Web &amp; App using Linear Regression Model
 
 ![cor_visuals](https://github.com/eforus-overseer-Pecani/Ecommerce-Customers-Data/blob/main/correlations_visualized_ecommerce_data.png)
 
+---
 
+<!-- demo-lab:start -->
+## Explore this project
 
+[Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/ecommerce-customers-data/) — Try an interactive explanation and inspect the original source and results. Browser teaching examples are distinguished from trained models.
+<!-- demo-lab:end -->
