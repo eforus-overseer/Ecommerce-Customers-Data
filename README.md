@@ -19,8 +19,8 @@ Predicting Expenses on Web &amp; App using Linear Regression Model
 
 
 <!-- codex-pixel-art -->
-## Pixel art
+## Project visual
 
-![Pixel art for Ecommerce-Customers-Data](assets/pixel-art.svg)
+![Pixel-art cover for Ecommerce-Customers-Data](assets/project-cover.png)
 
-A small visual signature for this repository.
+<sub>Pixel-art adaptation of [Adieu l'amour ! L'amour trompeur ! - romance créée par Juana à l'Eldorado -illustration couleurs Donjean- (MédiHAL 727493)](https://commons.wikimedia.org/wiki/File:Adieu_l%27amour_!_L%27amour_trompeur_!_-_romance_cr%C3%A9%C3%A9e_par_Juana_%C3%A0_l%27Eldorado_-illustration_couleurs_Donjean-_(M%C3%A9diHAL_727493).jpg) by Éliane Daphy / Institut Interdisciplinaire d'Anthropologie du Contemporain / National Center for Scientific Research, licensed Public domain. Source: Wikimedia Commons.</sub>
